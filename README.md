@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking for a job switch
-- 🥅 2021 Goals: Contribute more to techlnology
+- 🌱 I’m currently learning K8s
+- 👯 Love to do freelance work.
+- 🥅 2023 Goals: Contribute more to technology
 - ⚡ Fun fact: I photographer too
 
 ### Connect with me:
