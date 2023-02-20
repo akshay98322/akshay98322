@@ -2,7 +2,7 @@
 
 
 
-## I'm a Developer, Freelancer, Entrepreneur, and Student!!
+## I'm a full time employee, Developer, Freelancer and Student!!
 
 
 
